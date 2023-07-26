@@ -4,7 +4,7 @@ const products = [
     name: "Steel Pot",
     description: "Silver steel pot that is perfect for cooking",
     quantity: 230,
-    price: 42.44,
+    price: 42.45,
     image: "img-1",
     onSale: false,
     categoryId: "d914aec0-25b2-4103-9ed8-225d39018d1d",
